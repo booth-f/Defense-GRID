@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
     s.email       = "boothf@boothlabs.me"
     s.files       = ["lib/defensegrid.rb"]
     s.homepage    = 
-        'https://defense-grid.dev'
+        'https://defensegrid.dev'
     s.license     = 'GNU GPLv3'
 end

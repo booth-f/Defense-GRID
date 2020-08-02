@@ -1,5 +1,5 @@
 #
-#     nfSense
+#     Defense-GRID
 # Linux Distro Definitions
 #
 
