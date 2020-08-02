@@ -13,3 +13,5 @@ All contributions should be submitted as one commit and not tiny smaller commits
 ### Support or Contact
 
 Looking to contact the developer or need help with Defense GRID? Join us on [Discord](https://discord.gg/2fKaFge).
+
+If you would like to help contribute to the development of Defense GRID, please consider becoming a patron on [Patreon](https://www.patreon.com/eleix).
